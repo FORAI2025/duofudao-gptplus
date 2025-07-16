@@ -1,0 +1,18 @@
+title: 多福的岛屿GPT Plus 充值网站
+description: 现代化的ChatGPT Plus充值服务网站，采用赛博朋克风格设计
+url: "https://your-username.github.io"
+baseurl: "/chatgpt-plus-website"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .vscode/
+
+# Include files
+include:
+  - _config.yml
